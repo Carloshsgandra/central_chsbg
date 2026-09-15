@@ -1,1 +1,1 @@
-ATIVO
+ATIVO=1
