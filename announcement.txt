@@ -1,4 +1,4 @@
-﻿ID=COMUNICADO-20260921-133821
+﻿ID=COMUNICADO-20260921-134107
 ATIVO=1
 TITULO=Comunicado administrativo
 URL=https://www.gazetadopovo.com.br/vozes/
