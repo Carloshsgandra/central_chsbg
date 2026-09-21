@@ -1,4 +1,4 @@
-﻿ID=COMUNICADO-20260921-130700
+﻿ID=COMUNICADO-20260921-131513
 ATIVO=1
 TITULO=ola
 URL=https://www1.folha.uol.com.br/folha-topicos/tiririca/
