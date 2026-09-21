@@ -1,4 +1,4 @@
-﻿ID=COMUNICADO-20260921-134555
+﻿ID=COMUNICADO-20260921-135704
 ATIVO=1
 TITULO=Comunicado administrativo
-URL=https://www.gazetadopovo.com.br/rodrigo-constantino/o-charuto-de-vorcaro-e-a-breguice-do-poder/
+URL=https://imgs.search.brave.com/qYBinkciuJaQtKmx8FkOkKkYLL98BbuVUp3sQESdqPE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zMy5n/bGJpbWcuY29tL3Yx/L0FVVEhfMzU4NjJj/YTVjNmFiNDhiOTky/YmFmMWYxYjRmNzA2/MmUvZXh0cmEtZ2xv/Ym8tY29tL2luY29t/aW5nLzI1NjMzNTA2/LWEzMS1hOGUvdzM2/N2g1NTAtUFJPUC8z/MjE1OTA0NThfMTUx/MDY4MTkxNjA5NTYz/MV82NTU1NDUzMzg5/NjA4NDk2ODE3X24u/anBn
