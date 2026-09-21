@@ -1,4 +1,4 @@
-﻿ID=DESATIVADO-20260921-134116
-ATIVO=0
-TITULO=Comunicado desativado
-URL=
+﻿ID=COMUNICADO-20260921-134119
+ATIVO=1
+TITULO=Comunicado administrativo
+URL=https://www.gazetadopovo.com.br/vozes/
