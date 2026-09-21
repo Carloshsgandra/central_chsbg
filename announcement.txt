@@ -1,4 +1,4 @@
-﻿ID=COMUNICADO-20260921-131513
+﻿ID=COMUNICADO-20260921-131653
 ATIVO=1
-TITULO=ola
+TITULO=Comunicado administrativo
 URL=https://www1.folha.uol.com.br/folha-topicos/tiririca/
