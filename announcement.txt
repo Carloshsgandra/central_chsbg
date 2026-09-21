@@ -1,4 +1,4 @@
-﻿ID=COMUNICADO-20260921-133015
+﻿ID=COMUNICADO-20260921-133821
 ATIVO=1
 TITULO=Comunicado administrativo
-URL=https://www.gazetadopovo.com.br/tudo-sobre/tiririca/
+URL=https://www.gazetadopovo.com.br/vozes/
